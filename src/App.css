@@ -1,0 +1,11 @@
+.app-bg{
+  background-image: url(./img/bg.jpg);
+  height: 70vh;
+  background-size: cover;
+  background-repeat: no-repeat;
+  margin-top: 20px;
+}
+.side-bg{
+  background-color: rgb(1, 1, 27);
+  margin-top: 20px;
+}
